@@ -40,8 +40,8 @@
         <td><a href="https://github.com/africamonkey/SYSU_course">来源</a></td> 
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>18_HuZY_港校</td>
+        <td>18级大佬</td>
         <td></td>
         <td></td>
         <td>春秋招</td>
