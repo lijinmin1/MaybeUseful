@@ -1,6 +1,8 @@
 # 保研考研及学习资料
 
- SYSU CSE 保研考研经验分享及学习资料 ：目前主要整理了17级师兄师姐的资料，后续会添加18级的保研和港校经验分享。希望对大家有所帮助！
+SYSU CSE 保研考研经验分享及学习资料 ：目前主要整理了17级师兄师姐的资料，后续会添加18级的保研和港校经验分享。希望对大家有所帮助！
+
+如果有用大家记得点个⭐⭐鸭！
 
 ## 声明：
 
@@ -36,18 +38,25 @@
         <td><a href="https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E4%BF%9D%E7%A0%94%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87">来源</a></td>
         <td></td>
         <td></td>
-        <td>课程资料和作业</td>
+        <td>资料和作业</td>
         <td><a href="https://github.com/africamonkey/SYSU_course">来源</a></td> 
     </tr>
     <tr>
         <td>18_HuZY_港校</td>
-        <td>18级大佬</td>
+        <td><a href="https://www.zhihu.com/answer/1656698838">18级大佬</a></td>
         <td></td>
         <td></td>
         <td>春秋招</td>
         <td><a href="https://github.com/ysyisyourbrother/My-Leetcode">来源</a></td>
     </tr>
+    <tr>
+        <td>18_LiJM</td>
+        <td><a href="https://github.com/lijinmin1/MaybeUseful/tree/main/%E4%BF%9D%E7%A0%94%E7%AF%87">清华深圳</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 - 19年卓越手册和研究生培养方案：一些保研政策和培养方案每年会有新的变化，仅供参考。
-
